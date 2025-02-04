@@ -3,9 +3,9 @@ description: "Un poco de mi"
 theme: jekyll-theme-minimal
 
 nav:
-  - title: "Inicio"
-    url: "/"
-  - title: "CV"
-    url: "/cv/"
-  - title: "Mini Blog"
-    url: "/mini-blog/"
+- title: "Inicio"
+url: "/"
+- title: "CV"
+url: "/cv/"
+- title: "Mini Blog"
+url: "/mini-blog/"
