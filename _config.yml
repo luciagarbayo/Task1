@@ -5,7 +5,7 @@ theme: jakyll-theme-minimal
 nav:
   - title: "Inicio"
     url: "/"
-   - title: "CV"
+  - title: "CV"
     url: "/cv/"
-      - title: "Mini Blog"
+  - title: "Mini Blog"
     url: "/mini-blog/"
