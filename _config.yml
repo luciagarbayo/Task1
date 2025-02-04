@@ -1,0 +1,11 @@
+title: "Lucía Garbayo Bugeda"
+description: "Un poco de mi"
+theme: jakyll-theme-minimal
+
+nav:
+  - title: "Página principal"
+    url: "/"
+   - title: "CV"
+    url: "/cv/"
+      - title: "Mini Blog"
+    url: "/blog-personal/"
