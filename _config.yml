@@ -3,7 +3,7 @@ description: "Un poco de mi"
 theme: jakyll-theme-minimal
 
 nav:
-  - title: "Página principal"
+  - title: "Inicio"
     url: "/"
    - title: "CV"
     url: "/cv/"
