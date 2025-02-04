@@ -1,6 +1,9 @@
 title: "Lucía Garbayo Bugeda"
 description: "Un poco de mi"
 theme: jekyll-theme-minimal
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
 
 nav:
   - title: "Inicio"
